@@ -1,9 +1,10 @@
 # Hola 👋, soy Lucas
 
-- 🔭 Actualmente soy estudiante de la Licenciatura en Sistemas de la UNLP.  
+- 🔭 Actualmente soy estudiante de la Licenciatura en Sistemas de la Universidad Nacional de La Plata.  
 - 🌱 Progreso: 2do año.
-- 👯 Busco continuar progresando con mis estudios.
-- ⚡ Dato curioso: soy hincha de Arsenal.
+- 🎓 Ingresante en 2024.
+- 🏫 Me encontrás en: Facultad de Informática.
+- 👯 Busco continuar progresando con mis estudios y seguir capacitandome para entrar en la industria.
   
 ---
 
@@ -12,6 +13,21 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-3366CC?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+## 🛠️ Skills
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
+
+---
+
+## 🏆 Trofeos de GitHub
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&row=1&column=6)
 
 ---
 
