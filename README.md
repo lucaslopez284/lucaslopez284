@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Pascal_programming_language_logo.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
 
 ---
