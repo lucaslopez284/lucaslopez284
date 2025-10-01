@@ -16,14 +16,18 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lucaslopez284&show_icons=true&theme=tokyonight)  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslopez284&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopezlucas730@gmail.com)  
+
 📧 lopezlucas730@gmail.com  
 
 ---
+
+⭐️ Desde [lucaslopez284](https://github.com/lucaslopez284)
