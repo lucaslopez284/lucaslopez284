@@ -7,7 +7,7 @@
       <stop offset="100%" id="stop2" stop-color="#8e24aa">
         <animate attributeName="stop-color" values="#8e24aa;#0d47a1;#000000;#8e24aa" dur="6s" repeatCount="indefinite"/>
       </stop>
-    </linearGradient>
+    </linearGradient> 
   </defs>
   <rect width="1000" height="200" fill="url(#grad1)" />
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
