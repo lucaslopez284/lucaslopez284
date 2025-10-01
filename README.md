@@ -2,7 +2,7 @@
 
 --- 
 
-# Bienvenidos 👋
+# Bienvenidos a mi GitHub👋
 
 - 🔭 Actualmente soy estudiante de la Licenciatura en Sistemas de la Universidad Nacional de La Plata.
 - 🏫 Facultad de Informática.
