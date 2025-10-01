@@ -12,6 +12,6 @@
   <rect width="1000" height="200" fill="url(#grad1)" />
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-size="48" font-family="Arial" fill="#fff" font-weight="bold" style="text-shadow: 2px 2px 8px #000;">
-    Hola, soy Lucas Lopez
+    ¡Hola, soy Lucas Lopez!
   </text>
 </svg>
