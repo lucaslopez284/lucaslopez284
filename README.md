@@ -7,9 +7,6 @@
 - 📍 Berazategui.
 - 👯 Busco continuar progresando con mis estudios y seguir capacitandome para entrar en la industria.
 
-
-![Banner](https://i.imgur.com/3ZQ3Z8M.png)
-
 ---
 
 ## 💻 Lenguajes
