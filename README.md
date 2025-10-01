@@ -1,9 +1,10 @@
-# Hola 👋, soy Lucas
+# Hola 👋, soy Lucas Lopez
 
 - 🔭 Actualmente soy estudiante de la Licenciatura en Sistemas de la Universidad Nacional de La Plata.  
 - 🌱 Progreso: 2do año.
 - 🎓 Ingresante en 2024.
-- 🏫 Me encontrás en: Facultad de Informática.
+- 🏫 Facultad de Informática.
+- 📍 Berazategui.
 - 👯 Busco continuar progresando con mis estudios y seguir capacitandome para entrar en la industria.
   
 ---
