@@ -1,4 +1,5 @@
 # Hola 👋, soy Lucas Lopez
+![Banner](https://github.com/lucaslopez284/lucaslopez284/raw/main/assets/banner.svg)
 
 - 🔭 Actualmente soy estudiante de la Licenciatura en Sistemas de la Universidad Nacional de La Plata.
 - 🏫 Facultad de Informática.
