@@ -57,4 +57,4 @@
 
 ---
 
-⭐️ Visita mis repositorios [lucaslopez284](https://github.com/lucaslopez284)
+⭐️ Visita mis repositorios en [lucaslopez284](https://github.com/lucaslopez284)
