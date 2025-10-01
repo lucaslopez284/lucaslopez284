@@ -37,7 +37,7 @@
 
 ## 🏆 Trofeos de GitHub
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=lucaslopez284&theme=tokyonight&row=1&column=6)
 
 ---
 
