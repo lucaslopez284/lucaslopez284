@@ -7,9 +7,8 @@
 - 🔭 Actualmente soy estudiante de la Licenciatura en Sistemas de la Universidad Nacional de La Plata.
 - 🏫 Facultad de Informática.
 - 🌱 Progreso: 2do año.
-- 🎓 Ingresante en 2024.
 - 📍 Berazategui.
-- 👯 Busco continuar progresando con mis estudios y seguir capacitandome para entrar en la industria.
+- 👯 Busco continuar progresando con mis estudios y conseguir mis primeras experiencias en la industria.
 
 ---
 
